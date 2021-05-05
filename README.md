@@ -1,1 +1,1 @@
-# cbz_supercells
+# Creates CBZ supercell from CIF file.
