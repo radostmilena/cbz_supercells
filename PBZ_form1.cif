@@ -1,0 +1,295 @@
+####################################################################### 
+# 
+# This file contains crystal structure data downloaded from the 
+# Cambridge Structural Database (CSD) hosted by the Cambridge 
+# Crystallographic Data Centre (CCDC).
+# 
+# Full information about CCDC data access policies and citation 
+# guidelines are available at http://www.ccdc.cam.ac.uk/access/V1 
+# 
+# Audit and citation data items may have been added by the CCDC. 
+# Please retain this information to preserve the provenance of 
+# this file and to allow appropriate attribution of the data. 
+# 
+#######################################################################
+
+data_CIF
+_audit_block_doi                 10.5517/cctbqmg
+_database_code_depnum_ccdc_archive 'CCDC 755086'
+_audit_update_record             
+;
+2009-11-16 deposited with the CCDC.	2021-03-05 downloaded from the CCDC.
+;
+#TrackingRef 'PhenylbutazoneAlpha_in_P2_1_c_Encifer.cif'
+
+
+
+_computing_data_collection       ?
+#Added by publCIF
+
+
+
+
+_computing_structure_solution    
+;
+Bruker (2000). SMART and SAINT-Plus. Bruker AXS Inc., Madison, Wisconsin, USA.
+
+Sheldrick, G. M. (1997). SHELXL97. University of Gottingen, Germany.
+;
+
+#Added by publCIF
+
+
+
+
+_diffrn_reflns_theta_min         5.721
+#Added by publCIF
+
+
+
+
+_diffrn_reflns_theta_max         54.501
+#Added by publCIF
+
+
+
+
+_diffrn_reflns_av_R_equivalents  0.246
+#Added by publCIF
+
+
+
+
+_refine_ls_number_restraints     0
+#Added by publCIF
+
+
+
+
+_refine_ls_number_constraints    0
+#Added by publCIF
+
+
+
+
+_symmetry_space_group_name_hall  'P 2 b c'
+#Added by publCIF
+
+
+
+
+_exptl_crystal_F_000             1312
+#Added by publCIF
+
+
+
+
+_exptl_absorpt_correction_T_min  ?
+#Added by publCIF
+
+
+
+
+_diffrn_reflns_number            28620
+#Added by publCIF
+
+
+
+
+_exptl_absorpt_coefficient_mu    ?
+#Added by publCIF
+
+
+
+
+_exptl_crystal_density_diffrn    1.264
+#Added by publCIF
+
+
+
+
+_chemical_formula_weight         308.374
+#Added by publCIF
+
+
+
+
+_diffrn_radiation_source         MoKa
+#Added by publCIF
+
+
+
+
+_exptl_crystal_description       prismatic
+#Added by publCIF
+
+_cell_measurement_pressure       101.3
+#Added by publCIF
+
+
+
+
+_cell_measurement_theta_max      54.69
+#Added by publCIF
+
+
+
+
+_cell_measurement_theta_min      5.721
+#Added by publCIF
+
+
+
+
+_cell_measurement_reflns_used    1587
+#Added by publCIF
+
+
+
+
+_reflns_number_total             7765
+#Added by publCIF
+
+
+
+
+_diffrn_measurement_device_type  'Bruker Smart Apex diffractometer'
+#Added by publCIF
+
+
+
+
+_cell_measurement_temperature    150
+#Added by publCIF
+
+
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/c'
+_symmetry_Int_Tables_number      14
+_chemical_absolute_configuration ?
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,1/2-y,1/2+z
+_cell_length_a                   21.415(4)
+_cell_length_b                   5.7295(10)
+_cell_length_c                   27.782(5)
+_cell_angle_alpha                90
+_cell_angle_beta                 108.068(3)
+_cell_angle_gamma                90
+_cell_volume                     3240.68
+_cell_formula_units_Z            8
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C37 C 0.224684 0.46077 0.149571
+H34 H 0.271602 0.558146 0.079885
+C36 C 0.221117 0.550527 0.097563
+C22 C 0.064853 0.695388 0.262239
+H37 H 0.208133 0.321688 0.112211
+C38 C 0.267548 0.231344 0.161597
+C35 C 0.165814 0.646834 0.054842
+C24 C 0.107846 0.315688 0.254289
+C34 C 0.09636 0.654829 0.060971
+C33 C 0.095623 0.741895 0.112205
+C27 C -0.07447 0.436597 0.108591
+C30 C -0.110818 0.010354 0.060371
+C28 C -0.135547 0.342309 0.103203
+C21 C 0.050216 0.728161 0.210912
+C31 C -0.048678 0.103264 0.065965
+C32 C 0.059287 0.428178 0.055039
+C29 C -0.15418 0.132493 0.078725
+C25 C 0.093332 0.350307 0.202704
+C20 C 0.066082 0.557501 0.181908
+C26 C -0.030783 0.313709 0.090131
+N4 N 0.03254 0.40948 0.094686
+O3 O 0.049383 0.289845 0.020131
+N3 N 0.052681 0.604397 0.128192
+O4 O 0.12611 0.902846 0.136348
+C23 C 0.093291 0.490044 0.284109
+H38 H 0.277455 0.315155 0.201183
+H24 H 0.12307 0.182146 0.27394
+H27 H -0.166813 0.439576 0.11777
+H28 H -0.193033 0.071095 0.080419
+H23 H 0.106586 0.469685 0.322193
+H25 H 0.102929 0.256908 0.187399
+H39 H 0.258015 0.090794 0.163164
+H26 H -0.066189 0.573529 0.126055
+H29 H -0.125059 -0.155597 0.043467
+H21 H 0.031903 0.857193 0.19793
+H32 H 0.17985 0.817995 0.049934
+H33 H 0.160708 0.575503 0.015488
+H40 H 0.302648 0.227821 0.149636
+H30 H -0.025418 0.03275 0.054541
+H22 H 0.051498 0.830348 0.285679
+H35 H 0.203051 0.399048 0.086611
+H36 H 0.2455 0.6169 0.1505
+H31 H 0.06931 0.76530 0.03492
+C16 C 0.358858 0.40234 0.391639
+H3 H 0.753809 0.913831 0.53423
+H9 H 0.547577 0.753695 0.257611
+C17 C 0.344479 0.565653 0.346738
+C18 C 0.27163 0.609869 0.32316
+C5 C 0.652553 0.968486 0.500809
+C15 C 0.432111 0.359527 0.417315
+C2 C 0.644636 0.542524 0.452938
+C9 C 0.607161 0.239636 0.295264
+C8 C 0.585936 0.221582 0.33713
+C14 C 0.471906 0.574304 0.4385
+C10 C 0.593487 0.437876 0.26487
+C13 C 0.46661 0.251586 0.383234
+C1 C 0.588483 0.66865 0.44861
+C6 C 0.592294 0.885509 0.471432
+C11 C 0.557495 0.615665 0.276604
+C12 C 0.535514 0.602053 0.318226
+C7 C 0.549483 0.404302 0.347915
+N1 N 0.525247 0.577484 0.420655
+O1 O 0.461197 0.716444 0.467209
+N2 N 0.524707 0.373884 0.390032
+C19 C 0.255211 0.7733 0.278522
+H2 H 0.745145 0.541052 0.486879
+C3 C 0.705376 0.631335 0.4821
+O2 O 0.448678 0.093289 0.354299
+C4 C 0.708645 0.844196 0.505975
+H14 H 0.357296 0.513957 0.321793
+H8 H 0.609212 0.462884 0.232659
+H15 H 0.368123 0.708529 0.352751
+H19 H 0.272239 0.929403 0.293364
+H4 H 0.659524 1.12046 0.517306
+H12 H 0.338239 0.258132 0.3857
+H7 H 0.632352 0.102697 0.283833
+H6 H 0.595465 0.098467 0.35894
+H10 H 0.509796 0.725935 0.327997
+H1 H 0.642484 0.409295 0.443791
+H13 H 0.334113 0.467332 0.416827
+H5 H 0.55543 0.958036 0.467041
+H18 H 0.275154 0.685254 0.253723
+H20 H 0.20979 0.795046 0.265237
+H17 H 0.24981 0.67756 0.352088
+H16 H 0.241999 0.462864 0.318074
+H11 H 0.43645 0.24935 0.44609
+_chemical_name_systematic        4-Butyl-1,2-diphenyl-3,5-pyrazolidinedione
+_chemical_name_common            Phenylbutazone
+_chemical_formula_moiety         'C19 H20 N2 O2'
+_chemical_formula_sum            'C19 H20 N2 O2'
+_chemical_compound_source        'From Sigma Aldrich'
+_exptl_crystal_recrystallization_method 'Acetone, Methylethylketone, etc.'
+_chemical_melting_point          378
+_exptl_crystal_colour            colourless
+_diffrn_ambient_temperature      150
+_diffrn_ambient_pressure         101.3
+_diffrn_radiation_probe          x-ray
+_diffrn_radiation_type           MoK\a
+_diffrn_radiation_wavelength     0.71073
+_diffrn_source                   'sealed X-ray tube'
+_diffrn_source_type              'Bruker Smart Apex'
+
+#END
+
+

@@ -1,0 +1,125 @@
+####################################################################### 
+# 
+# This file contains crystal structure data downloaded from the 
+# Cambridge Structural Database (CSD) hosted by the Cambridge 
+# Crystallographic Data Centre (CCDC).
+# 
+# Full information about CCDC data access policies and citation 
+# guidelines are available at http://www.ccdc.cam.ac.uk/access/V1 
+# 
+# Audit and citation data items may have been added by the CCDC. 
+# Please retain this information to preserve the provenance of 
+# this file and to allow appropriate attribution of the data. 
+# 
+#######################################################################
+
+data_OXYTET01
+#This CIF has been generated from an entry in the Cambridge Structural Database
+_database_code_depnum_ccdc_archive 'CCDC 1226568'
+_database_code_CSD               OXYTET01
+loop_
+_citation_id
+_citation_doi
+_citation_year
+1 10.1021/ja00446a024 1977
+_audit_creation_method           'Created from the CSD'
+_audit_update_record             
+;
+2021-03-09 downloaded from the CCDC.
+;
+_database_code_NBS               520810
+_chemical_name_common            Adamycin
+_chemical_formula_moiety         'C22 H24 N2 O9'
+_chemical_name_systematic        Oxytetracycline
+_chemical_properties_biological  'antibiotic agent'
+_chemical_absolute_configuration unk
+_diffrn_ambient_temperature      123
+_exptl_crystal_density_diffrn    1.486
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt           0.054
+_refine_ls_wR_factor_gt          0.054
+_diffrn_radiation_probe          x-ray
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_H-M   'P 21 21 21'
+_symmetry_Int_Tables_number      19
+_space_group_name_Hall           'P 2ac 2ab'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2+x,1/2-y,-z
+3 -x,1/2+y,1/2-z
+4 1/2-x,-y,1/2+z
+_cell_length_a                   8.836(1)
+_cell_length_b                   12.416(1)
+_cell_length_c                   18.760(2)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     2058.12
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C -0.21490 0.30960 0.36760
+O1 O -0.12680 0.23620 0.38220
+C2 C -0.18980 0.38940 0.31170
+C3 C -0.03910 0.40560 0.27980
+N1 N 0.07760 0.34500 0.29940
+O2 O -0.02080 0.47970 0.23390
+C4 C -0.30570 0.45650 0.28930
+O3 O -0.28410 0.53100 0.24120
+C5 C -0.46700 0.45080 0.31680
+N2 N -0.58390 0.44660 0.26040
+C6 C -0.54750 0.37250 0.20240
+C7 C -0.62860 0.55160 0.23160
+C8 C -0.49520 0.35700 0.36870
+C9 C -0.63210 0.38080 0.41640
+O4 O -0.70120 0.28150 0.43860
+C10 C -0.60090 0.45520 0.48180
+C11 C -0.69500 0.55990 0.47750
+C12 C -0.86350 0.53040 0.48070
+O5 O -0.65540 0.60770 0.41030
+C13 C -0.65360 0.64010 0.53610
+C14 C -0.75250 0.72210 0.55400
+C15 C -0.71300 0.80000 0.60480
+C16 C -0.57370 0.79750 0.63790
+C17 C -0.47020 0.71790 0.61920
+O6 O -0.33110 0.72180 0.65020
+C18 C -0.50910 0.63720 0.56870
+C19 C -0.39440 0.55900 0.54640
+O7 O -0.26000 0.56610 0.56980
+C20 C -0.43560 0.47730 0.49540
+C21 C -0.32410 0.41420 0.46710
+O8 O -0.17750 0.42250 0.48450
+C22 C -0.35690 0.32620 0.41340
+O9 O -0.39750 0.23000 0.44990
+H1 H 0.16709 0.35538 0.27999
+H2 H 0.06542 0.29447 0.33179
+H3 H -0.19307 0.53046 0.22830
+H4 H -0.48511 0.51864 0.34424
+H5 H -0.45254 0.39476 0.17979
+H6 H -0.53640 0.29943 0.22146
+H7 H -0.62914 0.37359 0.16705
+H8 H -0.66966 0.59638 0.27002
+H9 H -0.54007 0.58720 0.21074
+H10 H -0.70596 0.54144 0.19478
+H11 H -0.52181 0.29269 0.33916
+H12 H -0.70798 0.41896 0.38596
+H13 H -0.75813 0.29315 0.47362 
+H14 H -0.63875 0.41533 0.52455 
+H15 H -0.88873 0.48322 0.44054 
+H16 H -0.88482 0.49297 0.52558 
+H17 H -0.92456 0.59617 0.47802 
+H18 H -0.71807 0.65624 0.40022 
+H19 H -0.84871 0.72569 0.53152
+H20 H -0.78310 0.85522 0.61657
+H21 H -0.54867 0.84956 0.67309
+H22 H -0.27551 0.67394 0.63242 
+H23 H -0.16685 0.47011 0.51591 
+H24 H -0.34051 0.22163 0.48531 
+
+#END
