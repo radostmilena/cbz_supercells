@@ -116,3 +116,19 @@ def get_connectivity_list(dist, var, varpos, symbol, atnr):
         new_index.append(np.concatenate((new_sym2, new_sym)))
 
     return(new_index, atom_names)
+
+#create arrays for PDB writing
+def create_arrays(new_index, varpos, symbol, atnr, atom_names):
+
+    new_pos = []
+    symb = []
+    atns = []
+    resnrs = []
+    for i in range(len(new_index)):
+        for j in range(atnr):
+            resnrs.append(i+1)
+            atns.append(atom_names[j])
+            new_pos.append(varpos[new_index[i][j]])
+            symb.append(symbol[new_index[i][j]])
+
+    return(new_pos, symb, resnrs, atns)
